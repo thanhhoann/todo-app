@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.todos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.todo {
+  border: 2px solid black;
+  width: 30%;
+  height: 30px;
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
